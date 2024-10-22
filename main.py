@@ -1,0 +1,1 @@
+from data.loader import botfrom handlers import commands, texts, callbacks, adminbot.infinity_polling()

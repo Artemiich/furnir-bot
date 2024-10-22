@@ -1,0 +1,1 @@
+# .gitignore - указываем папки и файлы которые не должны попасть в репозиторий# pip install -r requirements.txt - файл с названиями и версиями библиотек# venv\Scripts\activate - windows# source venv/bin/activate# python -m venv venv - не работает по умолчанию на сервере (Linux)

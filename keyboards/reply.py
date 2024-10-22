@@ -1,0 +1,1 @@
+from telebot import types# useinfobotdef start_kb():    kb = types.ReplyKeyboardMarkup(        resize_keyboard=True    )    kb.row(        types.KeyboardButton(text='Контакты'),        types.KeyboardButton(text='Адрес'),        types.KeyboardButton(text='Сайт'),        types.KeyboardButton(text='Товары'),    )    return kb
