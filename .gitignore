@@ -63,6 +63,5 @@ target/
 .env
 media/
 .DS_Store
-*.txt
 
 *.db
